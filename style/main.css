@@ -1,0 +1,19 @@
+header, section, main, footer{
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;    
+    margin: 10px;
+    border-radius: 10px;
+    border-style: solid;   
+    min-height: 100px;
+}
+footer{
+    min-height: 200px;
+}
+#mainNav {
+  background-color: rgb(37, 14, 98);
+}
+.nav-link {
+    color: rgb(255, 163, 0) !important;
+}
